@@ -12,5 +12,5 @@ yarn.lock
 #
 .expo/
 .vscode/
-lib/
+
 .watchmanconfig
